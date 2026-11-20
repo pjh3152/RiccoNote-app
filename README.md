@@ -24,7 +24,7 @@
 
 **[최신 버전 APK 받기 (Releases)](https://github.com/pjh3152/RiccoNote-app/releases/latest)**
 
-`Assets` 항목의 **RiccoNote-1.0.2.apk**를 받아 설치하면 됩니다.
+`Assets` 항목의 **RiccoNote-1.0.3.apk**를 받아 설치하면 됩니다.
 
 - 지원 기기: **Android 8.0 (Oreo) 이상**
 - 처음 설치할 때 브라우저나 파일 앱의 ‘출처를 알 수 없는 앱 설치’를 허용해야 할 수 있습니다.
@@ -126,3 +126,7 @@
 ## 문의 / 버그 제보
 
 [GitHub Issues](https://github.com/pjh3152/RiccoNote-app/issues)에 남겨 주세요. 공개 글에 실제 노트 내용이나 개인정보가 담기지 않도록 확인해 주세요.
+
+### 1.0.3 (2026-11-20)
+- 앱·웹 본문 끝의 줄바꿈과 공백 보존, #라벨 전환 시에도 유지.
+- 웹 라벨 삭제 표시를 작고 은은하게 조정.
