@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.png" width="96" height="96" alt="연필과 메모지를 든 릭코 아이콘"></p>
+<p align="center"><img src="icon.png" width="96" height="96" alt="노랑 바탕의 메모지와 펜 아이콘"></p>
 
 # RiccoNote
 
